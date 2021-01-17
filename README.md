@@ -18,8 +18,11 @@ You will need a mac computer, xcode app and as optional physical iPhone.
 
 
 <div align="left">
-    <img src="https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0307.PNG" width="200px"</img> 
-    <img src="https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0308.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/Flash_chat/blob/main/Documentation/IMG_0347.PNG" width="180px"</img> 
+     <img src="https://github.com/VladimirZhdanov/Flash_chat/blob/main/Documentation/IMG_0348.PNG" width="180px"</img> 
+     <img src="https://github.com/VladimirZhdanov/Flash_chat/blob/main/Documentation/IMG_0349.PNG" width="180px"</img> 
+     <img src="https://github.com/VladimirZhdanov/Flash_chat/blob/main/Documentation/IMG_0350.PNG" width="180px"</img> 
+
 </div>
 
 ## A few words
